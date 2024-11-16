@@ -3,6 +3,7 @@ I mostly interested self hosting and ethical hacking, If you need me to improve/
 ```
 mailto:gitxpresso@outlook.com
 ```
+Make sure you copy and paste the mailto link in your search bar.
 
 # Visitors
 ![Visitor Count](https://profile-counter.glitch.me/gitxpresso/count.svg)
