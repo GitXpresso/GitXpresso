@@ -5,6 +5,7 @@ mailto:gitxpresso@outlook.com
 ```
 Make sure you copy and paste the mailto link in your search bar.
 
+![Gitxpresso's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=gitxpresso)
 # Visitors
 ![Visitor Count](https://profile-counter.glitch.me/gitxpresso/count.svg)
 
