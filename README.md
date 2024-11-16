@@ -1,8 +1,9 @@
 ## Hi there 👋
-I mostly interested self hosting and ethical hacking, If you need me to improve/update your readme on your repository, then heres my email [gitxpresso](mailto:gitxpresso@outlook.com) so you can email me to let me know that you need help with editing and updating your markdown. Have any questions about my grammar on readme on my profile then use my contact [email](mailto:gitxpresso@outlook.com) mailto link dont work then copy and paste this in your search bar
+I mostly interested self hosting and ethical hacking, If you need me to improve/update your readme on your repository, email me to let me know that you need help with editing and updating your markdown. Have any questions about my grammar about the readme on my profile then use my contact email: 
 ```
 mailto:gitxpresso@outlook.com
 ```
+
 # Visitors
 ![Visitor Count](https://profile-counter.glitch.me/gitxpresso/count.svg)
 
