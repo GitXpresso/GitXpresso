@@ -35,8 +35,10 @@ I mostly interested self hosting and ethical hacking, If you need me to improve/
 mailto:gitxpresso@outlook.com
 ```
 Make sure you copy and paste the mailto link in your search bar.
-## 🔥 stats
-![GitXpresso's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=gitxpresso&hide=B&theme=github_dark)
+## 🔥 My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GitXpresso&theme=dark&background=000000)](https://git.io/streak-stats)
+
 # Visitors
 ![Visitor Count](https://profile-counter.glitch.me/gitxpresso/count.svg)
 
