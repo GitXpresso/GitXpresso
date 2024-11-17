@@ -12,6 +12,9 @@
 [![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://torproject.com/)
 ### Linux Distros I'm currently using
 
+### What im currently learning to code/program on
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://freecodecamp.com/)
+
 I mostly interested self hosting and ethical hacking, If you need me to improve/update your readme on your repository, email me to let me know that you need help with editing and updating your markdown. Have any questions about my grammar about the readme on my profile then use my contact email: 
 ```
 mailto:gitxpresso@outlook.com
