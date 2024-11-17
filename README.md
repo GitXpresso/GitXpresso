@@ -8,6 +8,9 @@
 	<img src="https://i.imgur.com/7fNjZUe.png] width= "100" height="200" />
 </div>
 
+
+                               
+
 <!-- [![GitHub Workflow Status](https://img.shields.io/github/checks-status/gogs/gogs/main?logo=github&style=for-the-badge)](https://github.com/gogs/gogs/actions?query=branch%3Amain) this is here so i know how to add an reference link to img shield badges -->                                   
   # I am currently active on
 ### IDE'S/Editor
@@ -32,10 +35,11 @@ I mostly interested self hosting and ethical hacking, If you need me to improve/
 mailto:gitxpresso@outlook.com
 ```
 Make sure you copy and paste the mailto link in your search bar.
-
+## 🔥 stats
 ![GitXpresso's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=gitxpresso&hide=B&theme=github_dark)
 # Visitors
 ![Visitor Count](https://profile-counter.glitch.me/gitxpresso/count.svg)
+
 
 <!--
 **GitXpresso/GitXpresso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
