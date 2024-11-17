@@ -1,11 +1,14 @@
 
 <!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://static.wikia.nocookie.net/65a8d23a-cecb-4dfb-87b4-f94513d63367)" width="100"/>
 </div> my profile picture --> 
 
 
 
-<!-- [![GitHub Workflow Status](https://img.shields.io/github/checks-status/gogs/gogs/main?logo=github&style=for-the-badge)](https://github.com/gogs/gogs/actions?query=branch%3Amain) this is here so i know how to add an reference link to img shield badges -->                         
+<!-- [![GitHub Workflow Status](https://img.shields.io/github/checks-status/gogs/gogs/main?logo=github&style=for-the-badge)](https://github.com/gogs/gogs/actions?query=branch%3Amain) this is here so i know how to add an reference link to img shield badges -->            
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://static.wikia.nocookie.net/65a8d23a-cecb-4dfb-87b4-f94513d63367.png)" width="100"/>
+</div>
                                      
 # I am currently active on
 ### IDE'S/Editor
