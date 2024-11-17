@@ -37,7 +37,7 @@ mailto:gitxpresso@outlook.com
 Make sure you copy and paste the mailto link in your search bar.
 ## 🔥 My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GitXpresso&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GitXpresso&theme=github-dark-blue)](https://git.io/streak-stats)
 
 # Visitors
 ![Visitor Count](https://profile-counter.glitch.me/gitxpresso/count.svg)
