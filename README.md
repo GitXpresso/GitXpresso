@@ -39,7 +39,9 @@ Make sure you copy and paste the mailto link in your search bar.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GitXpresso&theme=github-dark-blue)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitXpresso&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitXpresso&layout=compact)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GitXpresso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Visitors
 ![Visitor Count](https://profile-counter.glitch.me/gitxpresso/count.svg)
