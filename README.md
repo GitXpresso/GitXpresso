@@ -37,10 +37,10 @@ mailto:gitxpresso@outlook.com
 Make sure you copy and paste the mailto link in your search bar.
 ## 🔥 My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GitXpresso&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GitXpresso&theme=github-dark-blue)](https://git.io/streak-stats) ![Gitxpresso's github stats](https://github-readme-stats.vercel.app/api?username=GitXpresso&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitXpresso&layout=compact)
-
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GitXpresso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Visitors
