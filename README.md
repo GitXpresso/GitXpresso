@@ -28,6 +28,9 @@
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://debian.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org/)
 ### What im currently learning to code/program on
+> NOTE:
+> Not currently active on [freecodecamp](https://freecpdecamp.com/) yet
+
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://freecodecamp.com)
 ### Linux commands I mostly use
 I mostly interested self hosting and ethical hacking, If you need me to improve/update your readme on your repository, email me to let me know that you need help with editing and updating your markdown. Have any questions about my grammar about the readme on my profile then use my contact email: 
@@ -37,7 +40,6 @@ mailto:gitxpresso@outlook.com
 Make sure you copy and paste the mailto link in your search bar.
 ## 🔥 My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GitXpresso&theme=github-dark-blue)](https://git.io/streak-stats) 
 ![Gitxpresso's github stats](https://github-readme-stats.vercel.app/api?username=GitXpresso&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitXpresso&layout=compact)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GitXpresso&repo=CLODSH)](https://github.com/anuraghazra/github-readme-stats)
@@ -45,7 +47,7 @@ Make sure you copy and paste the mailto link in your search bar.
 # Visitors
 ![Visitor Count](https://profile-counter.glitch.me/gitxpresso/count.svg)
 
-
+<!-- Image not responsive ![GitHub Streak](https://streak-stats.demolab.com?user=GitXpresso&theme=github-dark-blue)](https://git.io/streak-stats) -->
 <!--
 **GitXpresso/GitXpresso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
