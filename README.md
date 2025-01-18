@@ -30,8 +30,8 @@
 ### Ubuntu flavours I used before
 [![Kubuntu](https://img.shields.io/badge/Kubuntu-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white)](https://kubuntu.org/)
 [![Lubuntu](https://img.shields.io/badge/Lubuntu-0068C8?style=for-the-badge&logo=lubuntu&logoColor=white)](https://lubuntu.org/)
-### What im currently learning to code/program on
-> NOTE:
+### What im currently learning to code/program 
+> [!NOTE]
 > Not currently active on [freecodecamp](https://freecpdecamp.com/) yet
 
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://freecodecamp.com)
