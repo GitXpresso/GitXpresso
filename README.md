@@ -4,7 +4,7 @@
 </div> --> 
 
  <div id= "header" align="left"">
-	<img src="https://i.imgur.com/7fNjZUe.png] width="100px" />
+	<img src="https://i.imgur.com/k8RwPq8.jpg] width="100px" align="left" />
 </div> 
 
 ### `Gitmocha`
