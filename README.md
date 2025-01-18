@@ -1,12 +1,15 @@
 
-<!-- <div id= "header" align="center">
-	<img src="https://i.imgur.com/8BgVXcY.png">
-</div>--> 
+<!-- <div id= "header" align="left"">
+	<img src="https://i.imgur.com/7fNjZUe.png] width="100px" align="left" />
+</div> --> 
+
+ <div id= "header" align="left"">
+	<img src="https://i.imgur.com/7fNjZUe.png] width="100px" />
+</div> 
+
+### `Gitmocha`
 
 
- <div id= "header" align="center">
-	<img src="https://i.imgur.com/7fNjZUe.png] width= "100" height="200" />
-</div>
 
 
                                
