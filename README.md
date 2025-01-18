@@ -53,7 +53,7 @@ Make sure you copy and paste the mailto link in your search bar.
 
 ## Repoistories I made I recommend you checkout
 
-[CLODSH](#https://github.com/gitxpresso/clodsh/)
+[CLODSH](https://github.com/gitxpresso/clodsh/)
 
 [Browsers-NoVNC](https://github.com/gitxpresso/Browsers-NoVNC) was editing "browsers-novnc" while currently editing my github profile README.md
 # Visitors
