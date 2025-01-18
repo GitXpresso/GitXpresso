@@ -42,7 +42,7 @@ mailto:gitmocha@outlook.com
 ```
 Or
 ```
-mailto:wg9797@outlook.cpm
+mailto:wg9797@outlook.com
 ```
 Make sure you copy and paste the mailto link in your search bar.
 ## 🔥 My Stats
