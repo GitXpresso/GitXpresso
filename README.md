@@ -38,7 +38,11 @@
 ### Linux commands I mostly use
 I mostly interested self hosting and ethical hacking, If you need me to improve/update your readme on your repository, email me to let me know that you need help with editing and updating your markdown. Have any questions about my grammar about the readme on my profile then use my contact email: 
 ```
-mailto:gitxpresso@outlook.com
+mailto:gitmocha@outlook.com
+```
+Or
+```
+mailto:wg9797@outlook.cpm
 ```
 Make sure you copy and paste the mailto link in your search bar.
 ## 🔥 My Stats
