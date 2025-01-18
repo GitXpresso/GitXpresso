@@ -43,14 +43,19 @@ mailto:gitxpresso@outlook.com
 Make sure you copy and paste the mailto link in your search bar.
 ## 🔥 My Stats
 
-![Gitxpresso's github stats](https://github-readme-stats.vercel.app/api?username=GitXpresso&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Gitxpresso's github stats](https://github-readme-stats.vercel.app/api?username=GitXpresso&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) [![GitHub Streak](https://streak-stats.demolab.com?user=GitXpresso&theme=github-dark-blue)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitXpresso&layout=compact)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GitXpresso&repo=CLODSH)](https://github.com/anuraghazra/github-readme-stats)
 
+## Repoistories I made I recommend you checkout
+
+[CLODSH](#https://github.com/gitxpresso/clodsh/)
+
+[Browsers-NoVNC](https://github.com/gitxpresso/Browsers-NoVNC) was editing "browsers-novnc" while currently editing my github profile README.md
 # Visitors
 ![Visitor Count](https://profile-counter.glitch.me/gitxpresso/count.svg)
 
-<!-- Image not responsive ![GitHub Streak](https://streak-stats.demolab.com?user=GitXpresso&theme=github-dark-blue)](https://git.io/streak-stats) -->
+
 <!--
 **GitXpresso/GitXpresso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
