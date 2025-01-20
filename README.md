@@ -2,16 +2,13 @@
 <!-- <div id= "header" align="center"">
 	<img src="https://i.imgur.com/7fNjZUe.png width="100px" align="left" />
 </div> --> 
-
- <div id= align="center">
-	<img src="https://i.sstatic.net/zjCCpP5n.png?s=128"/>
-</div> 
-
-
-
-
-
-
+<div align="center">
+  <a href="https://github.com/gitxpresso/browsers-novnc">
+    <img src="https://i.sstatic.net/zjCCpP5n.png?s=128" alt="Logo" width="200" height="200">
+  </a>
+  <h1 align= "center">Gitmocha</h1>
+    <br/>
+</div>
                                
 
 <!-- [![GitHub Workflow Status](https://img.shields.io/github/checks-status/gogs/gogs/main?logo=github&style=for-the-badge)](https://github.com/gogs/gogs/actions?query=branch%3Amain) this is here so i know how to add an reference link to img shield badges -->                                 
