@@ -4,11 +4,11 @@
 </div> --> 
 
  <div id= align="center">
-	<img src="https://i.imgur.com/k8RwPq8.jpg width="5px" align="center" />
+	<img src="https://i.sstatic.net/zjCCpP5n.png?s=128"/>
 </div> 
 
 
-Haven't brought back the profile imgur image for some reason got removed
+
 
 
 
