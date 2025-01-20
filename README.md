@@ -36,8 +36,8 @@
 > Not currently active on [freecodecamp](https://freecpdecamp.com/) yet
 
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://freecodecamp.com)
-### Linux commands I mostly use
-I mostly interested self hosting and ethical hacking, If you need me to improve/update your readme on your repository, email me to let me know that you need help with editing and updating your markdown. Have any questions about my grammar about the readme on my profile then use my contact email: 
+### Need Help with improving your github repository README.md?
+I mostly interested self hosting and coding bash, If you need me to improve/update your readme on your repository, email me to let me know that you need help with editing and updating your markdown. Have any questions about my grammar about the readme on my profile then use my contact email: 
 ```
 mailto:gitmocha@outlook.com
 ```
