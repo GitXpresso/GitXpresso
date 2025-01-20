@@ -1,14 +1,14 @@
 
-<!-- <div id= "header" align="left"">
-	<img src="https://i.imgur.com/7fNjZUe.png] width="100px" align="left" />
+<!-- <div id= "header" align="center"">
+	<img src="https://i.imgur.com/7fNjZUe.png width="100px" align="left" />
 </div> --> 
 
- <div id= align="left"">
-	<img src="https://i.imgur.com/k8RwPq8.jpg] width="10px" align="left" />
+ <div id= align="center">
+	<img src="https://i.imgur.com/k8RwPq8.jpg width="5px" align="center" />
 </div> 
 
-# `Gitmocha`
 
+Haven't brought back the profile imgur image for some reason got removed
 
 
 
