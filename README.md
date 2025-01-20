@@ -6,7 +6,7 @@
   <a href="https://github.com/gitxpresso/browsers-novnc">
     <img src="https://i.sstatic.net/zjCCpP5n.png?s=128" alt="Logo" width="200" height="200">
   </a>
-  <h1 align= "center"><q>Gitmocha</q></h1>
+  <h1 align= "center"><blockquote>Gitmocha</blockquote></h1>
 	<h2 align= "center">I love scripting shell, I Love using Linux, Github, and Vscode.
     <br/>
 </div>
