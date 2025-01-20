@@ -52,7 +52,7 @@ Make sure you copy and paste the mailto link in your search bar.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitXpresso&layout=compact)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GitXpresso&repo=CLODSH)](https://github.com/anuraghazra/github-readme-stats)
 
-## Repoistories I made I recommend you checkout
+## Repoistories I made recommend you checkout
 
 [CLODSH](https://github.com/gitxpresso/clodsh/) First actual repository
 
