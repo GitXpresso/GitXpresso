@@ -7,11 +7,12 @@
     <img src="https://i.sstatic.net/zjCCpP5n.png?s=128" alt="Logo" width="200" height="200">
   </a>
   <h1 align= "center">Gitmocha</</h1>
-	<h2 align= "center">I love scripting shell, I Love using Linux, Github, and Vscode.
+	<h2 align= "center">I love scripting shell, I Love using Linux, Github, and Vscode. 
+		I also accept collaborations.
     <br/>
 </div>
                                
-### I accept collaborations
+
 <!-- [![GitHub Workflow Status](https://img.shields.io/github/checks-status/gogs/gogs/main?logo=github&style=for-the-badge)](https://github.com/gogs/gogs/actions?query=branch%3Amain) this is here so i know how to add an reference link to img shield badges -->                                 
 # What I use
 ### IDE'S/Editor I use
