@@ -7,9 +7,10 @@
     <img src="https://i.sstatic.net/zjCCpP5n.png?s=128" alt="Logo" width="200" height="200">
   </a>
   <h1 align= "center">Gitmocha</</h1>
-	<h2 align= "center">I love scripting shell, I Love using Linux, Github, and Vscode. 
-		I also accept collaborations.
-    <br/>
+	<h2 align= "center">I love scripting shell, I Love using Linux, Github, and Vscode.</h2>
+        <h3 align= "center">I also accept collaborations.</h3>
+		
+   <br/>
 </div>
                                
 
