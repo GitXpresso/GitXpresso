@@ -11,7 +11,7 @@
     <br/>
 </div>
                                
-
+### I accept collaborations
 <!-- [![GitHub Workflow Status](https://img.shields.io/github/checks-status/gogs/gogs/main?logo=github&style=for-the-badge)](https://github.com/gogs/gogs/actions?query=branch%3Amain) this is here so i know how to add an reference link to img shield badges -->                                 
 # What I use
 ### IDE'S/Editor I use
