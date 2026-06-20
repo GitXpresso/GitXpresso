@@ -20,7 +20,6 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/kde/)
 ![TOR Proxy](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-[![Startpage](https://img.shields.io/badge/startpage-%236563FF.svg?style=for-the-badge&logo=startpage&logoColor=white)](https://startpage.com/)
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 
 
@@ -44,20 +43,10 @@
 ![Ubuntu MATE](https://img.shields.io/badge/Ubuntu%20MATE-84A454.svg?style=for-the-badge&logo=Ubuntu-MATE&logoColor=white)
 
 ### What im currently learning to code/program 
-> [!NOTE]
-> Not currently active on [freecodecamp](https://freecpdecamp.com/) yet
 
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://freecodecamp.com)
 ### Need Help with improving your github repository README.md?
 I mostly interested self hosting and coding bash, If you need me to improve/update your readme on your repository, email me to let me know that you need help with editing and updating your markdown. Have any questions about my grammar about the readme on my profile then use my contact email: 
-```
-mailto:gitmocha@outlook.com
-```
-Or
-```
-mailto:wg9797@outlook.com
-```
-Make sure you copy and paste the mailto link in your search bar.
 ## 🔥 My Stats
 
 ![Gitxpresso's github stats](https://github-readme-stats.vercel.app/api?username=GitXpresso&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) [![GitHub Streak](https://streak-stats.demolab.com?user=GitXpresso&theme=github-dark-blue)](https://git.io/streak-stats)
